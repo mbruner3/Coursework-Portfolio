@@ -10,5 +10,5 @@ I have included some of the projects I found most interesting on topics of inter
 4. Machine Learning
    *  Segementing Consumers with KMeans Clustering: I use a clustering algorithm to determine loyal customers from those who are only looking for good deals.  
 5. Operations Research:
-    * Class Group Project Optimization: I seek to create optimal groups for a class project using linear programming.
+    * Report Scheduler: I used Linear Programming to create a report build scheduler to minimize build times.
     * Panera Casier Optimization: Using Arena software, I personally collected data from a local Panera and made recommendations on the number of cashiers during peak business hours.
